@@ -34,3 +34,4 @@ contract Staking {
         emit RewardPaid(msg.sender, reward);
     }
 }
+
